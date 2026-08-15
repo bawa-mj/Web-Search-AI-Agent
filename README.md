@@ -79,8 +79,8 @@ langgraph
 ```
 ## Screenshot
 
-![Web Search AI Agent demo]
-(https://github.com/bawa-mj/Web-Search-AI-Agent/blob/main/Web%20Search%20AI%20Agent.png)
+![Web Search AI Agent demo](https://raw.githubusercontent.com/bawa-mj/Web-Search-AI-Agent/main/Web%20Search%20AI%20Agent.png)
+
 ## Notes
 
 - The API keys are required for the app to work — without them, the LLM and search tool calls will fail.
